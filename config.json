@@ -1,0 +1,7 @@
+{
+    "API_KEY": "YOUR_ALPHA_VANTAGE_API_KEY",
+    "TICKERS": ["VFIAX", "VSMPX", "AGTHX", "OXY", "XOM", "VRTX", "NVDA", "GOOG", "AMZN"],
+    "HISTORICAL_DATA_DIR": "./stock_data/",
+    "SENTIMENT_DATA_DIR": "./sentiment_data/",
+    "UPDATE_TIME": "07:45"
+}

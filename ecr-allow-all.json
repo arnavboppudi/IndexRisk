@@ -1,0 +1,13 @@
+{
+    "Version": "2022-10-17",
+    "Id": "ECRPolicy",
+    "Statement": [
+        {
+            "Sid": "AllowAll",
+            "Effect": "Allow",
+            "Action": "ecr:*",
+            "Resource": "*"
+        }
+    ]
+    
+}
